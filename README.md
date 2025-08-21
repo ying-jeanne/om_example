@@ -1,8 +1,8 @@
-# om_example
+# An example for OM
 
 ## Overview
 
-**om_example** is a simple FastAPI project that demonstrates API with endpoints, including static response, dynamic response with items and the CRUD operations.
+This is a simple FastAPI project that demonstrates API with endpoints, including static response, dynamic response with items and the CRUD operations.
 
 ![Demo](data/output.gif)
   
